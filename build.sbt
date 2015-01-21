@@ -1,4 +1,4 @@
-scalaVersion := "2.11.4"
+scalaVersion := "2.11.5"
 libraryDependencies ++= Seq(
-  "com.typesafe.akka" %% "akka-remote" % "2.3.6"
+  "com.typesafe.akka" %% "akka-remote" % "2.3.9"
 )
